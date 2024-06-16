@@ -1,2 +1,4 @@
-package TestesDeArrays;public class Carro {
+package TestesDeArrays;
+
+public class Carro {
 }
