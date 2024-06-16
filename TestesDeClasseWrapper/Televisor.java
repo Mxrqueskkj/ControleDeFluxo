@@ -36,6 +36,7 @@ class Televisor {
         tv.mudarCanal(10);
 
         System.out.println("aparece ai fi");
+        System.out.println("espero que apareça");
     }
 
 }
