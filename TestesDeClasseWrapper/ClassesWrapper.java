@@ -1,4 +1,4 @@
-package TestesControleFluxo;
+package TestesDeClasseWrapper;
 
 public class ClassesWrapper {
     public static void main(String[] args) {
